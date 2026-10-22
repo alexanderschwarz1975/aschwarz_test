@@ -9,7 +9,7 @@ import pandas as pd
 
 #url = "https://license.pro-int.lobster.cloud/dw/trigger/dhjpz2dlcjq5nzkxnzm0oq/v1/GetConfigs?vemasid=262982"
 # webbrowser.open_new_tab(url)
-print("Hello Alex!!!!")
+print("Hello Alex!")
 x = 2
 print(x)
 x = x + 75
